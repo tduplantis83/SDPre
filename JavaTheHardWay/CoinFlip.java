@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #29 - Do-While Loops
+*/
+
 import java.util.Scanner;
 
 public class CoinFlip

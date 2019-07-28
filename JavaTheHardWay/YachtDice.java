@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #35 - Displaying Dice with Functions
+*/
+
 public class YachtDice
 {
   public static void main(String[] args)

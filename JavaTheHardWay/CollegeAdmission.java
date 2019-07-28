@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE 20 - More Chains of IFs and Else
+*/
+
 import static java.lang.System.*;
 import java.util.Scanner;
 

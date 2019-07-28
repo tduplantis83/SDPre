@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #25 - Repeating Yourself with the While Loop
+*/
+
 import java.util.Scanner;
 
 public class EnterPIN

@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #28 - Using Loops for Error-Checking
+*/
+
 import java.util.Scanner;
 
 public class SafeSquareRoot

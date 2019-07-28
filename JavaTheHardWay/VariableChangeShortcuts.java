@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #11 - Variable Modification Shortcuts
+*/
+
 public class VariableChangeShortcuts
 {
   public static void main(String[] args)

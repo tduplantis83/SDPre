@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #27 -  Infinite Loops
+*/
+
 import java.util.Scanner;
 
 public class KeepGuessing

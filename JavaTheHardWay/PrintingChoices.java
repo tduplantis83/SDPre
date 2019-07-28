@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #3 - Printing Choices
+*/
+
 public class PrintingChoices
 {
   public static void main(String[] args)
@@ -20,7 +27,7 @@ public class PrintingChoices
     System.out.println();
     System.out.println("This" + " " + "is" + " " + "a" + " " + "test.");
     System.out.println();
-    
+
     System.out.println("I am" + " " + "learning Java" + " " + "the Hard Way!");
   }
 }

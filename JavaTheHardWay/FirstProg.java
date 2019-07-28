@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #1 - Intro: An Important Message
+*/
+
 public class FirstProg
 {
   public static void main(String[] args)

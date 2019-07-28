@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #17 - Else IF Statements
+*/
+
 public class ClubBouncer
 {
   public static void main(String[] args)

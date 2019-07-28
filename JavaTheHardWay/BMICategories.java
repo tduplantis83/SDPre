@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #19 - Mutual Exclusion with Chains of IF and Else
+*/
+
 import java.util.Scanner;
 
 public class BMICategories

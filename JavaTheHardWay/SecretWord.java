@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #18 - IF Statements with Strings
+*/
+
 import java.util.Scanner;
 
 public class SecretWord

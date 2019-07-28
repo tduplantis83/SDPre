@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #22 - Making Decisions with a Big Switch
+*/
+
 import java.util.Scanner;
 
 public class ThirtyDays

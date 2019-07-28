@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #32 - The Dice Game called "Pig"
+*/
+
 import java.util.Scanner;
 
 public class PigDice

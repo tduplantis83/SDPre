@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #26 - A Number-Guessing Game
+*/
+
 import java.util.Scanner;
 
 public class HighLow

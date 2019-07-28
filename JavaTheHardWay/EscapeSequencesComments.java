@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #4 - Escape Sequences and Commenting
+*/
+
 public class EscapeSequencesComments
 {
   public static void main(String[] args)

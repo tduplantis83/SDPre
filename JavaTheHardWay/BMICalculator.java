@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #9 - Calculations with User Input
+*/
+
 import java.util.Scanner;
 
 public class BMICalculator

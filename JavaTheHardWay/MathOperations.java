@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #6 - Mathematical Operations
+*/
+
 public class MathOperations
 {
   public static void main(String[] args)

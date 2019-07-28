@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #37 - Areas of Shapes
+*/
+
 import java.util.Scanner;
 
 public class ShapeArea

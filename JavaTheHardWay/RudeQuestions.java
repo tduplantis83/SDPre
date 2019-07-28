@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #8 - Storing the Human's Responses
+*/
+
 import java.util.Scanner;
 
 public class RudeQuestions

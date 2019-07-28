@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #30 - Adding Values One at a Time
+*/
+
 import java.util.Scanner;
 
 public class RunningTotal

@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #24 - Choosing Numbers Randomly
+*/
+
 public class RandomNumbers
 {
   public static void main(String[] args)

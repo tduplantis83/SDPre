@@ -1,0 +1,16 @@
+/*
+Make the h1 element's text white and background blue
+*/
+h1
+{
+  color: white;
+  background: blue;
+}
+
+/*
+Any element with teh attribute "red" will have red text
+*/
+.red
+{
+  color: red;
+}

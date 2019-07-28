@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #10 - Variables only Hold Values (Not formulas)
+*/
+
 import java.util.Scanner;
 
 public class Sequencing

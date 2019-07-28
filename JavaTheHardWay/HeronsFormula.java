@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #36 - Returning a Value from a Function
+*/
+
 public class HeronsFormula
 {
   public static void main(String[] args)

@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #16 - More IF Statements
+*/
+
 import java.util.Scanner;
 
 public class ComparingNumbers
@@ -13,7 +20,7 @@ public class ComparingNumbers
     second = keyboard.nextDouble();
 
       if(first < second)
-      
+
         System.out.println( first + " is LESS THAN " + second);
 
       if(first <= second)

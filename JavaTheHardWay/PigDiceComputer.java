@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #31 - Adding Values for a Dice Game
+*/
+
 public class PigDiceComputer
 {
   public static void main(String[] args)

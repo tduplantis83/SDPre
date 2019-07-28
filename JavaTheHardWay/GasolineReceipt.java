@@ -1,3 +1,10 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #2 - Printing
+*/
+
 public class GasolineReceipt
 {
   public static void main(String[] args)

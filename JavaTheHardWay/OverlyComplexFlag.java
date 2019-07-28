@@ -1,3 +1,11 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #34 - Calling Functions to Draw a Flag
+*/
+
+
 import static java.lang.System.*;
 
 public class OverlyComplexFlag

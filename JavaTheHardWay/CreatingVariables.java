@@ -1,3 +1,11 @@
+/*
+TRAVIS DUPLANTIS
+7/28/19
+JAVA THE HARD WAY
+EXERCISE #5 - Saving Information in Variables
+*/
+
+
 public class CreatingVariables
 {
   public static void main(String[] args)
