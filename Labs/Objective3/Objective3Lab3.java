@@ -1,22 +1,31 @@
+/*
+TRAVIS DUPLANTIS
+8/15/19
+OBJECTIVE 3, LAB 3 - CALCULATE BIRTH YEAR
+*/
+
 import java.util.Scanner;
-import java.util.Calendar;
+import java.time.Year;
 
 public class Objective3Lab3
 {
   public static void main(String[] args)
   {
     int birthYear, age, currentYear;
-    currentYear = Calendar.getInstance().get(Calendar.YEAR);
+    Scanner input = new Scanner(System.in);
+
     birthYear = 0;
 
-    Scanner input = new Scanner(System.in);
     System.out.println("How old are you?");
     age = input.nextInt();
 
+    currentYear = Year.now().getValue();
+
     birthYear = currentYear - age;
 
-    System.out.println("If you're " + age + " years old, you were born in " + birthYear);
+    System.out.println("You were born in " + birthYear);
 
     input.close();
+
   }
 }
