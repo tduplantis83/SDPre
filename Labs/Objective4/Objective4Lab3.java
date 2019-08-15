@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/15/19
+OBJECTIVE 4, LAB 3 - POSITIVE OR NEGATIVE
+*/
+
 import java.util.Scanner;
 
 public class Objective4Lab3
@@ -10,17 +16,17 @@ public class Objective4Lab3
     System.out.println("Please enter a number: ");
     userNum = scanner.nextInt();
 
-    if(userNum > 0)
+    if(userNum > 0 )
     {
-      System.out.println("The number is positive.");
+      System.out.println("The number is positive");
     }
     else if(userNum == 0)
     {
-      System.out.println("The number is zero.");
+      System.out.println("The number is equal to zero");
     }
     else
     {
-      System.out.println("The number is negative.");
+      System.out.println("The number is negative");
     }
 
     scanner.close();

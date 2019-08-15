@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/15/19
+OBJECTIVE 4, LAB 1 - FIND MAX VALUE
+*/
+
 public class Objective4Lab1
 {
   public static void main(String[] args)

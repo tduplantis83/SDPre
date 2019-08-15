@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/15/19
+OBJECTIVE 4, LAB 2 - STRING EQUIVALENCY
+*/
+
 public class Objective4Lab2
 {
   public static void main(String[] args)
@@ -14,7 +20,6 @@ public class Objective4Lab2
     {
       System.out.println(string1 + " is NOT equivalent to " + string2);
     }
-
     if(string1.equals(string3))
     {
       System.out.println(string1 + " is equivalent to " + string3);
