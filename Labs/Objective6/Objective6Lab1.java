@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/16/19
+OBJECTIVE 6, LAB 1 - PRINT NUMBERS IN REVERSE
+*/
+
 public class Objective6Lab1
 {
   public static void main(String[] args)

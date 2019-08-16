@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/16/19
+OBJECTIVE 6, LAB 5 - MENU SYSTEM
+*/
+
 import java.util.Scanner;
 
 public class Objective6Lab5

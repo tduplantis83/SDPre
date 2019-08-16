@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/16/19
+OBJECTIVE 6, LAB 3 - IDENTIFY ODD AND EVEN NUMBERS
+*/
+
 public class Objective6Lab3
 {
   public static void main(String[] args)
@@ -6,15 +12,13 @@ public class Objective6Lab3
 
     while(counter < 21)
     {
-      System.out.print(counter + " is ");
-
       if(counter % 2 == 0)
       {
-        System.out.println(" even");
+        System.out.println(counter + " is even");
       }
       else
       {
-        System.out.println(" odd");
+        System.out.println(counter + " is odd");
       }
 
       counter += 1;
