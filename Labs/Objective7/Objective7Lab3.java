@@ -1,3 +1,9 @@
+/*
+TRAVIS DUPLANTIS
+8/16/19
+OBJECTIVE 7, LAB 3 - MENU METHOD
+*/
+
 import java.util.Scanner;
 
 public class Objective7Lab3
